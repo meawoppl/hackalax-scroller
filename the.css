@@ -1,0 +1,10 @@
+div {
+  position: relative;
+}
+  
+canvas {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1024px;
+}
